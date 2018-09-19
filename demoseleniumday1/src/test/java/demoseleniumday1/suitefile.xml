@@ -1,0 +1,12 @@
+<suite name="MyFirstTestSuite">
+<test name="MyFirstTest">
+<classes>
+<class name="demoseleniumday1.Annotations"/>
+<class name="demoseleniumday1.Day1Demo1"/>
+<class name="demoseleniumday1.DataProvider"/>
+
+</classes>
+</test>
+
+
+</suite>
